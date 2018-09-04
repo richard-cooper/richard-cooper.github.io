@@ -3,10 +3,9 @@
 
 # TEAM
 
-    Designer: Richard Cooper
-    Developer: Jordan Bowman
-    © Papaya
-
+    Designer/Developer: Jordan Bowman
+    @jrdnbwmn
+    eatapapaya.com
 
 # TECHNOLOGY COLOPHON
 
